@@ -8,6 +8,8 @@ Site: www.beatport.com
 This client work per week with a lot of albums from this site, so, he contacted me to create a script when he put the album url:
 Example:  https://www.beatport.com/release/recovery/3199108
 And get a excel file with some information (album name, song name, autors)
+
+
  
  
 The player Embed was the most important part of this work, this is how a normal embed look: 
